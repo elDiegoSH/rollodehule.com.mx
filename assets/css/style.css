@@ -5069,9 +5069,9 @@ hero slider
   }
 }
 /*--------------------------------------------------------------
-9. wpo-pricing-page
+/* 9. wpo-pricing-page
 --------------------------------------------------------------*/
-@media (max-width: 991px) {
+/* @media (max-width: 991px) {
   .wpo-pricing-section {
     padding-bottom: 75px;
   }
@@ -5260,12 +5260,12 @@ hero slider
 .wpo-pricing-section .pricing-grids > .grid:nth-child(2) .get-started:hover {
   background: #0043b1;
   color: #fff;
-}
+}  */
 
 /*==========================================
 6. wpo-team-single
 ===========================================*/
-.team-pg-area {
+/* .team-pg-area {
   max-width: 1080px;
   margin: 0 auto;
 }
@@ -5364,10 +5364,10 @@ hero slider
 
 .exprience-wrap {
   padding-bottom: 40px;
-}
+} */
 
 /*progress-design*/
-.progress {
+/* .progress {
   width: 150px;
   height: 150px;
   background: none;
@@ -5745,12 +5745,12 @@ hero slider
   right: 15px;
   top: 50%;
   transform: translateY(-50%);
-}
+} */
 
 /*--------------------------------------------------------------
 10. wpo-terms-section
 --------------------------------------------------------------*/
-.wpo-terms-section .wpo-terms-wrap .wpo-terms-img img {
+/* .wpo-terms-section .wpo-terms-wrap .wpo-terms-img img {
   width: 100%;
 }
 .wpo-terms-section .wpo-terms-wrap .wpo-terms-text {
@@ -5794,7 +5794,7 @@ hero slider
 }
 .wpo-terms-section .wpo-terms-wrap .wpo-terms-text .t-sub {
   padding: 20px 0 0;
-}
+} */
 
 /*--------------------------------------------------------------
 11. wpo-blog-pg-section
